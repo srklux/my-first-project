@@ -13,6 +13,7 @@
 .conteiner-rigth {
     display: inline-block;
     margin-left: 86px;
+    margin-top: 144px;
 
 }
 
@@ -33,11 +34,11 @@ p {
 }
 
 h1 {
-    width: 513px;
     font-size: 100px;
     font-weight: 900;
-    line-height: normal;
+    line-height: 100px;
     color: #515151;
+    width: 200px;
 }
 
 h2 {
@@ -69,6 +70,7 @@ h2 {
     line-height: normal;
     border: none;
     cursor: pointer;
+    margin-left: 76px;
 }
 .button-section {
 cursor: pointer;
